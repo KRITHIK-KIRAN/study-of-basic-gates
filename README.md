@@ -65,7 +65,7 @@ Y= A⊕B
 
 PROGRAM:
 ```
-module exp1(a,b,c,d,e);
+module exp1(a,b,c,d,e,x,y,z);
 input a,b;
 output c,d,e,x,y,z;
 and (c,a,b);

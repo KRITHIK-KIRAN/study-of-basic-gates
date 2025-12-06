@@ -64,7 +64,7 @@ Y= A⊕B
 
 
 PROGRAM:
-
+```
 module exp1(a,b,c,d,e);
 input a,b;
 output c,d,e,x,y,z;
@@ -75,7 +75,7 @@ nand(x,a,b);
 nor(y,a,b);
 xnor(z,a,b);
 endmodule
-
+```
 
 Logic symbol & Truthtable:
 

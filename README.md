@@ -77,7 +77,8 @@ xnor(z,a,b);
 endmodule
  
 **Logic symbol & Truthtable**
-https://private-user-images.githubusercontent.com/182349790/380979719-f50db3be-85c5-4310-b107-277820cb027b.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUwMzA5NDIsIm5iZiI6MTc2NTAzMDY0MiwicGF0aCI6Ii8xODIzNDk3OTAvMzgwOTc5NzE5LWY1MGRiM2JlLTg1YzUtNDMxMC1iMTA3LTI3NzgyMGNiMDI3Yi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwNlQxNDE3MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mN2RmZjEwMWU2MDBmYTdhODZjMDhmNGI5ZjJkYjU2NzQxNjZlNGIwMDllZGI2YWY2NzMxODc5OWNkZTFjMjJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.60Xymdv3h52lElYegnAGbNPeLMK3j3lDXQiM1cHsOYo
+<img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/582a9c8e-ea80-4a2a-bfa0-208a0dbc04d0" />
+
 
 RTL realization Output:** 
 **[logic gate.pdf](https://github.com/user-attachments/files/23988386/logic.gate.pdf)

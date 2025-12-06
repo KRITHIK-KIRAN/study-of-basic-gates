@@ -75,13 +75,17 @@ nand(x,a,b);
 nor(y,a,b);
 xnor(z,a,b);
 endmodule
+
+
  
 **Logic symbol & Truthtable**
 <img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/582a9c8e-ea80-4a2a-bfa0-208a0dbc04d0" />
 
 
 RTL realization Output:** 
-**[logic gate.pdf](https://github.com/user-attachments/files/23988386/logic.gate.pdf)
+**
+<img width="520" height="690" alt="image" src="https://github.com/user-attachments/assets/dfe03fe5-a9d2-410e-b2ec-062fb7909db8" />
+
 
 Time Waveform:
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/b8e93387-25ef-4a5b-8862-8eaef90d14e3" />

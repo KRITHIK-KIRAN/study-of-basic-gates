@@ -50,18 +50,7 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 Y= A⊕B
 
 **Procedure** 
-[Uplo//exp1- All logic Gates TT verfn..
-module exp1(a,b,c,d,e);
-input a,b;
-output c,d,e,x,y,z;
-and (c,a,b);
-or(d,a,b);
-xor(e,a,b);
-nand(x,a,b);
-nor(y,a,b);
-xnor(z,a,b);
-endmodule
-ading exp1.v.bak…]()
+
 
 1.	Type the program in Quartus software.
 
@@ -75,6 +64,19 @@ ading exp1.v.bak…]()
 
 
 **PROGRAM**
+
+[Up//exp1- All logic Gates TT verfn..
+module exp1(a,b,c,d,e);
+input a,b;
+output c,d,e,x,y,z;
+and (c,a,b);
+or(d,a,b);
+xor(e,a,b);
+nand(x,a,b);
+nor(y,a,b);
+xnor(z,a,b);
+endmodule
+loading exp1.v.bak…]()
 
  
 **Logic symbol & Truthtable**

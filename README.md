@@ -96,5 +96,5 @@ Time Waveform:
 
 
 **Result:**
-
+The basic logic gates are studied and the truth tables are verified.
 
